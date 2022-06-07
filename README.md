@@ -12,8 +12,9 @@
 
 🧑‍🏭 I'm currently working in a project using the Laravel Environment together with D3.js to create awesome data visualizations. It goes soon public.  
 
-😎 Here in Github, I'm looking to collaborate on any GNU licensed project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js, or Godot Engine.
+😎 Here in Github, I'm looking to collaborate on any GNU licensed project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js or Godot Engine.
 
 ## Contact
-📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail: d@bahien.se  
+📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail.  
+
 🚩 I speak 🇧🇷 Portuguese, 🇩🇪 German, 🇬🇧 English, 🇦🇷 Spanish (in order of proficiency) and I'm now learning 🇮🇹 Italian. But if you want to write to me in any other language, no problem... Google can help. 😃
