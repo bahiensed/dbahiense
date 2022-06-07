@@ -2,11 +2,11 @@
 ... a full stack developer by accident with almost 9 intermittent years of experience.  
 
 I've already lived in many cities like Rio de Janeiro, Braga, Frankfurt and Munich where I had the opportunity to work in some great companies and meet really amazing people.  
-Now I'm back home in Petrópolis, Brazil to raise my kids (most challenging task ever!), ~to plant a tree (done!)~ and to write a book.  
+Now I'm back home in Petrópolis, Brazil to raise my kids (most challenging task ever!), ~to plant a tree (done!)~ and to write a book. And, why not,   
 
-I have a degree in Philosophy and my passion for logics, computing and programming started after reading the logic writings of guys like Aristotle, William of Ockham, G. Frege, B. Russel and L. Wittgenstein.  
+I have a degree in Philosophy and my passion for logics, computing and programming started after reading the logic writings of guys like Aristotle, William of Ockham, G. Frege, B. Russel and L. Wittgenstein. (Yes, Aristotle and William too!)  
 
-I'm also very interested in everything related to free software and hardware designs.
+On principle, I'm also interested in everything related to free software and free hardware designs.
 - 👀 I'm also very interested in HAM Radio and RPi which I use to teach my kids programming and robotics.
 - 🌱 We also have a lot of fun together creating games using the Godot Engine, playing music together and chess.
 
