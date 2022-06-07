@@ -6,14 +6,14 @@
 
 📚 I have a degree in Philosophy and my passion for logics, computing and programming started after reading the logic writings of guys like Aristotle, William of Ockham, G. Frege, B. Russel and L. Wittgenstein. (Yes, Aristotle and William too!)  
 
-🆓 On principle, I'm interested in everything related to free software and free hardware designs.
-💻 I also love to tinker with those small SBCs such as the Raspberry Pi, Orange Pi, Banana Pi (and all the fruit salad options) which I use to teach my own kids and their friends programming, gaming and robotics. 🤖  
+🆓 On principle, I'm interested in everything related to free software and free hardware designs.  
+💻 I also love to tinker with those small SBCs such as the Raspberry Pi, Orange Pi, Banana Pi (and all the fruit salad options) which I use to teach my two sons and their friends programming, gaming and robotics. 🤖  
 📻 Other hobbies I have and share with the kids are HAM Radio (please, more CW and less FT8!), making music playing the Piano or the Guitar and playing Chess all night long. Most important we have fun after the homework! 👍
 
 🧑‍🏭 I'm currently working in a project using the Laravel Environment together with D3.js to create awesome data visualizations. It goes soon public.  
 
-I'm looking to collaborate on any open source project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js, RPi or Godot Engine.
+😎 Here in Github, I'm looking to collaborate on any GNU licensed project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js, or Godot Engine.
 
 ## Contact
-📫 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail.  
-📫 I speak Portuguese, German, English, Spanish and I'm now learning Italian. But if you want to write to me in any other language, no problem... Google can help. :-)
+📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail: d@bahien.se  
+🚩 I speak 🇧🇷 Portuguese, 🇩🇪 German, 🇬🇧 English, 🇦🇷 Spanish (in order of proficiency) and I'm now learning 🇮🇹 Italian. But if you want to write to me in any other language, no problem... Google can help. 😃
