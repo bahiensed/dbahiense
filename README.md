@@ -1,16 +1,16 @@
 # Hi! I'm Douglas Bahiense...
 ... a full stack developer by accident with almost 9 intermittent years of experience.  
 
-🗺️ I've already lived in many cities like Rio de Janeiro, Braga, Frankfurt and Munich where I had the opportunity to work in some great companies and meet really amazing people.  
-🏡 Now I'm back home in Petrópolis, Brazil, to raise my kids (most challenging task ever!), ~to plant a tree (done!)~ and to write a book. And, why not, to work remotely to anybody who I can help with my sparse skills.   
+🌍 I've already lived in many cities like Rio de Janeiro, Braga, Frankfurt and Munich where I had the opportunity to work in some great companies and meet really amazing people that taught me a lot.  
+🏡 Now I'm back home in Petrópolis, Brazil, to raise my kids (most challenging task ever!), ~to plant a tree (done!)~, to write a book and, why not, to work remotely to anybody who I can help with my sparse skills.  
 
 📚 I have a degree in Philosophy and my passion for logics, computing and programming started after reading the logic writings of guys like Aristotle, William of Ockham, G. Frege, B. Russel and L. Wittgenstein. (Yes, Aristotle and William too!)  
 
-On principle, I'm also interested in everything related to free software and free hardware designs.
-- 👀 I'm also very interested in HAM Radio and RPi which I use to teach my kids programming and robotics.
-- 🌱 We also have a lot of fun together creating games using the Godot Engine, playing music together and chess.
+🆓 On principle, I'm interested in everything related to free software and free hardware designs.
+💻 I also love to tinker with those small SBCs such as the Raspberry Pi, Orange Pi, Banana Pi (and all the fruit salad options) which I use to teach my own kids and their friends programming, gaming and robotics. 🤖  
+📻 Other hobbies I have and share with the kids are HAM Radio (please, more CW and less FT8!), making music playing the Piano or the Guitar and playing Chess all night long. Most important we have fun after the homework! 👍
 
-I'm currently working in a project using the Laravel Environment together with D3.js to create awesome data visualizations.  
+🧑‍🏭 I'm currently working in a project using the Laravel Environment together with D3.js to create awesome data visualizations. It goes soon public.  
 
 I'm looking to collaborate on any open source project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js, RPi or Godot Engine.
 
