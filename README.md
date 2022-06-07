@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Douglas Bahiense and I live in Petrópolis, Brazil.
-- 👋 I'm a full stack developer in development with almost 9 intermittent years of experience, having worked in some really great companies in Europe and South America.
+- 👋 I'm a full stack developer in development with almost 6 intermittent years of experience, having worked in some really great companies in Europe and South America.
 - 🌱 I'm currently creating SaaS solutions using the Laravel Environment together with D3.js for data visualization.
 - 👀 I have a degree in Philosophy where my love for programming has begun.
 - 👀 I'm also very interested in HAM Radio and RPi which I use to teach my kids programming and robotics.
