@@ -9,11 +9,11 @@
 🆓 On principle, I'm interested in everything related to free software and free hardware designs.  
 💻 I also love to tinker with those small SBCs such as the Raspberry Pi, Orange Pi, Banana Pi (and all the fruit salad options) which I use to teach my two sons and their friends programming, gaming and robotics. 🤖  
 📻 Other hobbies I have and share with the kids are HAM Radio (please, more CW and less FT8!), making music and playing chess all night long. Most important we have fun after the homework! 👍  
-⛰️ And almost every weekend we go to a mountain to keep in touch with nature. You can see some of our adventures [overhere](tv.sotabrasil.com.br).
+⛰️ And almost every weekend we go to a mountain to keep in touch with nature. You can see some of our adventures [overhere](http://tv.sotabrasil.com.br).  
 
 🧑‍🏭 I'm currently working in a project using the Laravel Environment together with D3.js to create awesome data visualizations. It goes soon public.  
 
-😎 Here in Github, I'm looking to collaborate on any GNU licensed project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js or Godot Engine.
+😎 Here in Github, I'm looking to collaborate on any GNU licensed project that involves LEMP (Linux, Nginx, MariaDB and PHP), Laravel, D3.js or Godot Engine.  
 
 ## Contact
 📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail.  
