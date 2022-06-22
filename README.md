@@ -24,3 +24,13 @@
 📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail.  
 
 🚩 I speak 🇧🇷 Portuguese, 🇩🇪 German, 🇬🇧 English, 🇦🇷 Spanish (in order of proficiency) and I'm now learning 🇮🇹 Italian. But if you want to write to me in any other language, no problem... Google can help. 😃
+
+<h3>
+    <button aria-controls="myID-1" aria-expanded="false">
+        <span>How would you mark up a series of questions and answers?</span>
+        <!-- svg icon here, styled and positioned using CSS -->
+    </button>
+</h3>
+<div id="myID-1" hidden >
+    I would probably use headings, each followed by an answers most likely wrapped in a semantic-less wrapper.
+</div>    
