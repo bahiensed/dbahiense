@@ -1,7 +1,7 @@
 # Hi! I'm Douglas Bahiense...
-... a philosopher in substance, a programmer by accident and an entrepreneur by vocation. 
+... a philosopher in substance, a programmer by accident and an eremite by vocation. 
 
-Following the motto "non solum provectos debet instruere, sed (...) etiam incipientes erudire" I teach kids and teens how to code.
+"Non solum provectos debet instruere, sed (...) etiam incipientes erudire."
 
 📧 You won't see me on social medias, so if you want to stay in touch just drop me a line by e-mail.
 
