@@ -1,4 +1,4 @@
 # Hi! I'm Douglas Bahiense...
-... a philosopher in substance, a programmer by accident and an educator by vocation. 
+... a philosopher in substance, a programmer by accident, an educator by vocation, and a mountaineer for fun. 
 
 "Non solum provectos debet instruere, sed (...) etiam incipientes erudire."
